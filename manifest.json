@@ -1,16 +1,24 @@
 {
-  "name":"English من الصفر",
-  "short_name":"English من الصفر",
-  "description":"تعلم اللغة الإنجليزية من الصفر باللغة العربية خطوة بخطوة.",
-  "start_url":"./index.html",
-  "scope":"./",
-  "display":"standalone",
-  "background_color":"#f7f9fc",
-  "theme_color":"#2166e8",
-  "lang":"ar",
-  "dir":"rtl",
-  "icons":[
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  "name": "English من الصفر",
+  "short_name": "English من الصفر",
+  "description": "تعلم اللغة الإنجليزية بالعربية خطوة بخطوة.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#2166e8",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
